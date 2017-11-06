@@ -8,4 +8,5 @@
     1.2 flexible.js  http://www.jianshu.com/p/04efb4a1d2f8
  
 2.Vue.router实例
-  http://www.cnblogs.com/keepfool/p/5690366.html
+
+    2.1各项示例入口 http://www.cnblogs.com/keepfool/p/5690366.html
